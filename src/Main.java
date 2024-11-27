@@ -4,5 +4,7 @@ public class Main {
     public static void main(String[] args) {
         System.out.println("Hello and welcome!");
         System.out.println("Fork example!");
+        System.out.println("Third commit");
+
     }
 }
